@@ -1,6 +1,6 @@
 <!--<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>-->
 
-# Book Template for [Wowchemy Website Builder](https://wowchemy.com)
+# Panduan Penggunaan Aplikasi Editor Infrastruktur [Wowchemy Website Builder](https://wowchemy.com)
 
 The **Book Template** empowers you to create **product documentation**, **digital books**, **personal notes**, and **knowledge bases**.
 
